@@ -1,0 +1,48 @@
+#div1{
+    background-color: #B1F0F7;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+    border-radius: 10%;
+}
+.h1{
+    font-size: 200%;
+    text-decoration: dotted underline;
+    font-family: "Bevan", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+.divcontact{
+    background-color: #E1F7F5;
+    border-radius: 5%;
+    padding: 5%;
+    width: 50%;
+    height: auto;
+} 
+.name{
+    font-size: 150%;
+    font-family: "Bevan", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.email{
+    font-size: 150%;
+    font-family: "Bevan", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.message{
+    font-size: 150%;
+    font-family: "Bevan", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    margin-top: 3%;
+}
